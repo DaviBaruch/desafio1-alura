@@ -2,3 +2,4 @@ Teste para ver se aparece no dispositivo do meu colaborador
 
 Davi
 Gabriel
+python é uma das linguagens mais basica de programação e fácil de aprender
